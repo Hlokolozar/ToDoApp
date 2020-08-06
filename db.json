@@ -4,19 +4,22 @@
       "id": 1,
       "title": "Cut Grass",
       "description": "Cut the grass according to the image on Insta",
-      "status": "Completed"
+      "status": "Completed",
+      "dueDate": "09/08/2020"
     },
     {
       "id": 2,
       "title": "Buy Groceries",
       "description": "Prepare List and check Budget",
-      "status": "New"
+      "status": "New",
+      "dueDate": "09/08/2020"
     },
     {
       "id": 3,
       "title": "Take Snoopie to the Vet",
       "description": "Snoopie is not feeling great",
-      "status": "Cancelled"
+      "status": "Cancelled",
+      "dueDate": "09/08/2020"
     }
   ]
 }
