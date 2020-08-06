@@ -1,20 +1,9 @@
 [
     {
-      title: "Buy Milk",
-      description: "Buy 6pack of Milk at Shoprite",
-      status: "done",
-      dueDate: "01-09-2021",
+      'title': "Buy Milk",
+      'description': "Buy 6pack of Milk at Shoprite",
+      'status': "done",
+      'dueDate': "01-09-2021",
     },
-    {
-      title: "Take car to Service",
-      description: "Take Car to Service by 09:00am",
-      status: "done",
-      dueDate: "15-08-2021",
-    },
-    {
-      title: "Cut Lawn",
-      description: "Buy 6pack of Milk at Shoprite",
-      status: "done",
-      dueDate: "01-09-2021",
-    }
+
 ]
