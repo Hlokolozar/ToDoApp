@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Cut Grass",
-      "description": "Cut the grass according to the image on Insta",
+      "description": "Check image on Insta",
       "status": "Completed",
       "editing": false,
       "dueDate": "09/08/2020"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title": "Buy Groceries",
-      "description": "Prepare List and check Budget",
+      "description": "Prepare List and do Budget",
       "status": "New",
       "editing": false,
       "dueDate": "09/08/2020"
